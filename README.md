@@ -1,5 +1,10 @@
 # 🚀 My Very First Lines of Code | خطوتي الأولى في عالم البرمجة
 
+
+## 🎯 The 80-Day Python Challenge
+During this summer vacation, I have set a personal challenge for myself: **To master Python programming within 80 days** and build impactful, real-world projects. This repository will serve as my transparent, daily log to track my consistency, dedication, and growth from day one.
+
+
 ## 🌍 English
 Welcome to my GitHub! 🌟
 This repository holds a very special meaning to me. It contains the exact first two lines of Python code I wrote when I decided to start my programming journey. 
