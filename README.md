@@ -16,8 +16,16 @@ It's simple, but it is the solid foundation from which all my future advanced pr
 مرحباً بكم في حسابي على جيتهاب! 🌟
 هذا المستودع له مكانة خاصة جداً عندي، فهو يوثق السطور البرمجية الأولى التي كتبتها في حياتي عندما اتخذت قراري بدخول عالم البرمجة وتعلم لغة بايثون.
 
-الكود بسيط للغاية، لكنه يمثل حجر الأساس والشرارة الأولى لرحلتي. خلال السنتين القادمتين، سأستمر في التعلم وبناء مشاريع قوية ومتطورة بناءً على هذه البداية!
+الكود بسيط للغاية، لكنه يمثل حجر الأساس والشرارة الأولى لرحلتي. خلال السنتين القادمتين، سأستمر في التعلم وبناء مشاريع قوية ومتطورة بناءً على هذه البداية
+                                  
+  ### 🔍 Code Analysis
 
-### 🔍 تحليل الكود:
-* **السطر الأول:** استخدام دالة `print()` لطباعة جملة "I love python" على الشاشة.
-* **السطر الثاني:** سطر تدريبي لطباعة جملة "I love programming"
+* **Line 1:** Using `print()` function to display "I love python".
+* **Line 2:** A practice line to print "I love programming".
+
+## 📅 Daily Progress
+
+* **Day 1:** Introduction to Python & Printing Text (`print()`)
+* **Day 2:** Code Readability & Python Comments (`#`)
+
+                             
