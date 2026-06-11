@@ -25,7 +25,9 @@ It's simple, but it is the solid foundation from which all my future advanced pr
 
 ## 📅 Daily Progress
 
-* **Day 1:** Introduction to Python & Printing Text (`print()`)
-* **Day 2:** Code Readability & Python Comments (`#`)
+* **Day 1:** Researching the core concepts of programming, its definition, and why we use it.
+* **Day 2 - 5:** Mastering the Command Line interface (CLI) and basic terminal commands (4 days of practice).
+* **Day 6:** Introduction to Python and learning how to write clean code comments (`#`).
+
 
                              
