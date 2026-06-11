@@ -4,6 +4,9 @@
 ## 🎯 The 80-Day Python Challenge
 During this summer vacation, I have set a personal challenge for myself: **To master Python programming within 80 days** and build impactful, real-world projects. This repository will serve as my transparent, daily log to track my consistency, dedication, and growth from day one.
 
+## 🛠️ The 5-Project Phase (Next Goal)
+Right after completing my 80 days of learning and finishing Elzero Web School's Python course, I will immediately start a **20-day intensive coding challenge** to build **5 real-world projects**. This phase will focus on applying everything I learned into fully functional software, showcasing my practical skills to scholarship committees.
+
 
 ## 🌍 English
 Welcome to my GitHub! 🌟
