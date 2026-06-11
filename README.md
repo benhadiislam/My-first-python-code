@@ -23,10 +23,11 @@ It's simple, but it is the solid foundation from which all my future advanced pr
 
 الكود بسيط للغاية، لكنه يمثل حجر الأساس والشرارة الأولى لرحلتي. خلال السنتين القادمتين، سأستمر في التعلم وبناء مشاريع قوية ومتطورة بناءً على هذه البداية
                                   
-  ### 🔍 Code Analysis
+  ### 🔍 تحليل الكود
 
-* **Line 1:** Using `print()` function to display "I love python".
-* **Line 2:** A practice line to print "I love programming".
+* **السطر الأول:** استخدام دالة `print()` لعرض جملة "I love python" على الشاشة.
+* **السطر الثاني:** سطر تدريبي لطباعة جملة "I love programming".
+
 
 ## 📅 Daily Progress
 
