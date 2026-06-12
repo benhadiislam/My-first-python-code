@@ -43,4 +43,15 @@ Hit **Day 7** of my learning journey! Today, I covered:
 * **Storage:** Learned where data is stored and how it's processed.
 * **Variables:** Understood the power and benefits of using variables.
 Building a strong foundation, one day at a time! 🔥
-                        
+
+### 🚀 Day 8: Python Variables Summary
+
+Brief summary of Lessons 7 & 8 from Elzero Web School:
+
+* **Definition:** Named memory locations to store data.
+* **Naming Rules:** * Must start with a letter or `_` (e.g., `my_var`).
+  * Cannot start with a number (e.g., `1var` is error).
+  * Case-Sensitive (`age` is not `Age`).
+  * Cannot use Python keywords (like `if`, `for`).
+* **Feature:** Supports Dynamic Typing & Multi-Assignment (`a, b = 1, 2`).
+            
