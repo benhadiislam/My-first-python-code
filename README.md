@@ -34,10 +34,10 @@ It's simple, but it is the solid foundation from which all my future advanced pr
 
 ## 📅 Daily Progress
 
-* **Day 1:** Researching the core concepts of programming, its definition, and why we use it.
-* **Day 2 - 5:** Mastering the Command Line interface (CLI) and basic terminal commands (4 days of practice).
-* **Day 6:** Introduction to Python and learning how to write clean code comments (`#`).
-## 🚀 Day 7: Data & Variables Mastered!
+* **Day 1:** Researching the core concepts of programming, its definition, and why we use it.              
+                            * **Day 2 - 5:** Mastering the Command Line interface (CLI) and basic terminal commands (4 days of practice).                     
+                            * **Day 6:** Introduction to Python and learning how to write clean code comments (`#`).
+                            ## 🚀 Day 7: Data & Variables Mastered!
 Hit **Day 7** of my learning journey! Today, I covered:
 * **Data & Its Types:** Mastered all data types and their real-world use cases.
 * **Storage:** Learned where data is stored and how it's processed.
@@ -53,5 +53,18 @@ Brief summary of Lessons 7 & 8 from Elzero Web School:
   * Cannot start with a number (e.g., `1var` is error).
   * Case-Sensitive (`age` is not `Age`).
   * Cannot use Python keywords (like `if`, `for`).
-* **Feature:** Supports Dynamic Typing & Multi-Assignment (`a, b = 1, 2`).
-            
+* **Feature:** Supports Dynamic Typing & Multi-Assignment (`a, b = 1, 2 ).                                                                                                                                  #                           # 🚀 Day 9 & 10: Python Strings & Escape Characters
+
+Brief summary of Lessons 9 & 10 from Elzero Web School:
+
+* **String Concatenation:** * Combining multiple strings together using the `+` operator.
+  * Note: You cannot concatenate a string with an integer directly without converting it.
+
+* **Escape Characters (`\`):** * Used to insert characters that are otherwise impossible or illegal in a string.
+  * `\n` : New Line.
+  * `\t` : Horizontal Tab.
+  * `\'` & `\"` : Single and Double Quotes inside strings.
+  * `\\` : Backslash itself.
+
+* **Practice & Exercises:** * Applied practical examples to master string manipulation and formatting.
+       
