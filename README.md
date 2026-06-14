@@ -53,7 +53,7 @@ Brief summary of Lessons 7 & 8 from Elzero Web School:
   * Cannot start with a number (e.g., `1var` is error).
   * Case-Sensitive (`age` is not `Age`).
   * Cannot use Python keywords (like `if`, `for`).
-* **Feature:** Supports Dynamic Typing & Multi-Assignment (`a, b = 1, 2 ).                                                                                                                                  #                           # 🚀 Day 9 & 10: Python Strings & Escape Characters
+* **Feature:** Supports Dynamic Typing & Multi-Assignment (`a, b = 1, 2 ).                                                                                                                                  #                                                                 # 🚀 Day 9 : Python Strings & Escape Characters
 
 Brief summary of Lessons 9 & 10 from Elzero Web School:
 
