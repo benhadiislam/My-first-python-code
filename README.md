@@ -53,7 +53,7 @@ Brief summary of Lessons 7 & 8 from Elzero Web School:
   * Cannot start with a number (e.g., `1var` is error).
   * Case-Sensitive (`age` is not `Age`).
   * Cannot use Python keywords (like `if`, `for`).
-* **Feature:** Supports Dynamic Typing & Multi-Assignment (`a, b = 1, 2 ).                                                                                                                                  #                                                                 # 🚀 Day 9 : Python Strings & Escape Characters
+* **Feature:** Supports Dynamic Typing & Multi-Assignment (`a, b = 1, 2 ).                                                                                                                                  #                                                                     # 🚀 Day 9 : Python Strings & Escape Characters
 
 Brief summary of Lessons 9 & 10 from Elzero Web School:
 
@@ -67,9 +67,8 @@ Brief summary of Lessons 9 & 10 from Elzero Web School:
   * `\\` : Backslash itself.
 
 * **Practice & Exercises:** * Applied practical examples to master string   manipulation and formatting.          
-                                # 🚀 DAY 10: PYTHON MASTERCLASS
-
-## ⚡ CORE CONCEPTS: STRINGS & INDEXING
+                                # 🚀 DAY 09: PYTHON MASTERCLASS:                     
+                            ## ⚡ CORE CONCEPTS: STRINGS & INDEXING
 
 * **Python Strings:** Textual data structuralized within single `' '` or double `" "` quotes.
 * **Advanced Indexing:** Accessing isolated characters via their memory offsets.
