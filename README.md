@@ -66,4 +66,4 @@ Brief summary of Lessons 9 & 10 from Elzero Web School:
   * `\'` & `\"` : Single and Double Quotes inside strings.
   * `\\` : Backslash itself.
 
-* **Practice & Exercises:** * Applied practical examples to master string   manipulation and formatting.    
+* **Practice & Exercises:** * Applied practical examples to master string   manipulation and formatting.        
