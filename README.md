@@ -66,4 +66,17 @@ Brief summary of Lessons 9 & 10 from Elzero Web School:
   * `\'` & `\"` : Single and Double Quotes inside strings.
   * `\\` : Backslash itself.
 
-* **Practice & Exercises:** * Applied practical examples to master string   manipulation and formatting.        
+* **Practice & Exercises:** * Applied practical examples to master string   manipulation and formatting.          
+                                # 🚀 DAY 10: PYTHON MASTERCLASS
+
+## ⚡ CORE CONCEPTS: STRINGS & INDEXING
+
+* **Python Strings:** Textual data structuralized within single `' '` or double `" "` quotes.
+* **Advanced Indexing:** Accessing isolated characters via their memory offsets.
+    * `Positive Indexing:` Traverses from Left-to-Right, strictly initializing at **0**.
+    * `Negative Indexing:` Traverses from Right-to-Left, referencing the terminal character at **-1**.
+* **Data Slicing:** Extracting precise sub-sequences using the syntax: `[Start : End : Step]`
+
+---
+### 🛠️ CURRENT STATUS: IN_PROGRESS 
+      
