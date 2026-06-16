@@ -74,8 +74,19 @@ Brief summary of Lessons 9 & 10 from Elzero Web School:
 * **Advanced Indexing:** Accessing isolated characters via their memory offsets.
     * `Positive Indexing:` Traverses from Left-to-Right, strictly initializing at **0**.
     * `Negative Indexing:` Traverses from Right-to-Left, referencing the terminal character at **-1**.
-* **Data Slicing:** Extracting precise sub-sequences using the syntax: `[Start : End : Step]`
-
----
-### 🛠️ CURRENT STATUS: IN_PROGRESS 
-      
+* **Data Slicing:** Extracting precise sub-sequences using the syntax: `[Start : End : Step].                         
+                            🚀 DAY 10: PYTHON MASTERCLASS:
+⚡ CORE CONCEPTS: STRINGS METHODS
+Python Strings Methods: Built-in functions used to manipulate, clean, and format textual data efficiently.
+Advanced Formatting & Case Control (Part 1):
+strip() / lstrip() / rstrip(): Removes leading and trailing whitespaces or specific characters.
+title(): Capitalizes the first letter of every word (including after numbers).
+capitalize(): Capitalizes only the very first character of the whole string.
+zfill(): Adds zeros at the beginning of the string to reach a specified width.
+upper() & lower(): Converts all characters to uppercase or lowercase.
+Advanced Splitting & Searching (Part 2):
+split() / rsplit(): Cuts the string into a list based on a specific delimiter.
+center(): Centers the string by padding it with spaces or custom characters.
+count(): Returns the number of times a substring appears in the text.
+swapcase(): Inverts the casing (uppercase becomes lowercase and vice versa).
+startswith() & endswith(): Checks if the string begins or ends with a specific value (Returns True or False).   
