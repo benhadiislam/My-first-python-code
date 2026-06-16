@@ -1,4 +1,4 @@
-    # 🚀 100 Days of Code: Python Mastery & Architecture
+   # 🚀 100 Days of Code: Python Mastery & Architecture
 
 Welcome to my GitHub repository! This repository holds a very profound milestones in my academic and technical journey; it documents the very first lines of code I have ever written, marking my transition into Computer Science and Software Engineering.
 
@@ -81,6 +81,16 @@ Below is the execution analysis of the historical baseline script initialized in
         * `swapcase()` : Inverts casing binary states across the entire sequence.
         * `startswith()` & `endswith()` : Performs boolean checks (`True`/`False`) regarding sequence boundaries.
 
+* **Day 11: String Methods – Search, Volume, and Replacements**
+    * *Source Study: Structured Refinement based on Elzero Web School (Lessons 13 & 14).*
+    * **Subsequence Locating & Analysis (Lesson 13):**
+        * `index()` : Searches for a specific substring and returns its lowest memory offset. Throws a ValueError if the substring is non-existent.
+        * `find()` : Safe execution alternative; returns `-1` if the target sequence is not found instead of crashing the program.
+        * `len()` : Evaluates and outputs the absolute character count of a given data sequence.
+    * **Text Manipulation & Reassembly (Lesson 14):**
+        * `replace()` : Substitutes old occurrences with a specified new substring, allowing an optional max-count argument for precise control.
+        * `join()` : Concatenates elements of an iterable (like a list) into a single cohesive string using a designated separator.
+
 ---
 
 ## 🛠️ Key Technical Skills Showcased
@@ -90,3 +100,5 @@ Below is the execution analysis of the historical baseline script initialized in
 
 ---
 *This repository is continuously updated to reflect my daily progression through advanced computer science modules.*
+
+ 
